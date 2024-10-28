@@ -16,7 +16,7 @@ class Header extends React.Component {
 
     return (
       <header className={styles.header}>
-        <a href="/">
+        <a href="./">
           <Logo className={styles.header__logo} />
         </a>
 
